@@ -9,5 +9,9 @@
     .header-text-container{
         min-width: 100%;
     }
+    .header-banner-section{
+        padding: 80px 0 30px 0;
+        background-position: center;
+    }
     
 }
