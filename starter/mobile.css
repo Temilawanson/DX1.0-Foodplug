@@ -13,5 +13,16 @@
         padding: 80px 0 30px 0;
         background-position: center;
     }
+    /* explore foods section starts here */
+    .explorefoods-card{
+        margin: 20px 0;
+    }
+    /* explore foods section ends here */
+    /* faq section starts here */
+
+    .faq-items{
+        min-width: 100%;
+    }
+    /* faq section ends here */
     
 }
